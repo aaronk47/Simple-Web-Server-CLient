@@ -1,4 +1,4 @@
-# Simple-Web-Server-CLient
+# Simple-Web-Server-Client
 This is a Simple Web Server-CLient program
 
 Steps for the Compilation of the Code: 
