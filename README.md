@@ -1,5 +1,5 @@
 # Simple-Web-Server-Client
-This is a Simple Web Server-CLient program. This project I completed in my first Computer Networks course at The University of Texas at Arlington.
+This is a Simple Web Server-CLient program. This project I completed in my first semester in the Computer Networks course at The University of Texas at Arlington.
 
 Steps for the Compilation of the Code: 
 ---------------------------------------
